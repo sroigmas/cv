@@ -131,6 +131,70 @@ _Valencia (Spain)_ <br>
 _Grade_: 7'9
 <br><br>
 
+'**Visualize Prometheus metrics with Grafana**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
+Online course.
+<br><br>
+
+'**Monitoring with Prometheus**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
+Online course.
+<br><br>
+
+'**ELK+Beats - Centralize logs with Elastic Stack**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
+Online course.
+<br><br>
+
+'**Log management with Loki and Grafana**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
+Online course.
+<br><br>
+
+'**Kubernetes for developers**' course @ Codely.tv _(Oct 2022 - Oct 2022)_ <br>
+Online course.
+<br><br>
+
+'**Docker**' course @ Codely.tv _(Oct 2022 - Oct 2022)_ <br>
+Online course.
+<br><br>
+
+'**Kafka Streams for Data Processing**' course @ Udemy _(Oct 2022 - Oct 2022)_ <br>
+Online course.
+<br><br>
+
+'**Confluent Schema Registry & REST Proxy**' course @ Udemy _(Sep 2022 - Sep 2022)_ <br>
+Online course.
+<br><br>
+
+'**Learn Apache Kafka for Beginners v3**' course @ Udemy _(Sep 2022 - Sep 2022)_ <br>
+Online course.
+<br><br>
+
+'**IntelliJ IDEA**' course @ Codely.tv _(Sep 2022 - Sep 2022)_ <br>
+Online course.
+<br><br>
+
+'**Productivity with iTerm**' course @ Codely.tv _(Sep 2022 - Sep 2022)_ <br>
+Online course.
+<br><br>
+
+'**Setup macOS for programming**' course @ Codely.tv _(Sep 2022 - Sep 2022)_ <br>
+Online course.
+<br><br>
+
+'**SOLID principles**' course @ Codely.tv _(Sep 2022 - Sep 2022)_ <br>
+Online course.
+<br><br>
+
+**Engineering Manager workshop** by Félix López _(Apr 2021 - Apr 2021)_ <br>
+[http://engineeringmanager.academy/](http://engineeringmanager.academy/)
+<br><br>
+
+'**Apache Kafka Series - Learn Apache Kafka for Beginners v2**' course @ Udemy _(Aug 2021 - Aug 2021)_ <br>
+Online course.
+<br><br>
+
+'**Building Modern Python Applications on AWS**' course @ Coursera _(Mar 2021 - Mar 2021)_ <br>
+Online course.
+<br><br>
+
 ## 💬 Languages
 
 **Spanish**: Native <br>
