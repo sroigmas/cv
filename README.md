@@ -187,12 +187,96 @@ Online course.
 [http://engineeringmanager.academy/](http://engineeringmanager.academy/)
 <br><br>
 
-'**Apache Kafka Series - Learn Apache Kafka for Beginners v2**' course @ Udemy _(Aug 2021 - Aug 2021)_ <br>
+'**Apache Kafka Series - Learn Apache Kafka for Beginners v2**' course @ Udemy _(Aug 2021 - Sep 2021)_ <br>
 Online course.
 <br><br>
 
-'**Building Modern Python Applications on AWS**' course @ Coursera _(Mar 2021 - Mar 2021)_ <br>
+'**Building Modern Python Applications on AWS**' course @ Coursera _(Mar 2021 - Jun 2021)_ <br>
 Online course.
+<br><br>
+
+'**Developing Cloud-Native Apps with Microservices Architectures**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
+Online course.
+<br><br>
+
+'**Spring Cloud Quick Overview**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
+Online course.
+<br><br>
+
+'**Spring Core - Learn Spring Framework 4 and Spring Boot**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
+Online course.
+<br><br>
+
+'**Spring Framework And Dependency Injection For Beginners**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
+Online course.
+<br><br>
+
+'**RESTful Web Services with Spring Framework - A quick start**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
+Online course.
+<br><br>
+
+'**Spring Boot: Complete guide from development to deployment**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
+Online course.
+<br><br>
+
+'**Introducing Spring Boot**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
+Online course.
+<br><br>
+
+'**Test Driven Development con Java y JUnit 5**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
+Online course.
+<br><br>
+
+'**Java Programmer and J2EE Applications Development**' course @ LUZ TI _(29 Dec 2013 - 18 Feb 2014)_ <br>
+_Barcelona (Spain)_ <br>
+
+250h
+
+- Java basics.
+- Java J2EE Web: JSP, JSTL, Servlets and JDBC.
+- Struts 2.
+- Java Server Faces (JSF). RichFaces.
+- Spring.
+- GWT and AJAX. RPC.
+- Hibernate. JPA, JPQL, EclipseLink. MyBatis.
+<br><br>
+
+'**Application development using HTML5 for Firefox O.S. mobile phones**' course @ Online - Polytechnic University of Madrid _(Oct 2013 - Dec 2013)_ <br>
+Online course.
+<br><br>
+
+'**Android applications development**' course @ Online - Universidad Galileo _(Oct 2013 - Nov 2013)_ <br>
+Online course.
+<br><br>
+
+'**MongoDB for Java Developers**' course @ MongoDB _(Sep 2013 - Oct 2013)_ <br>
+Online course.
+<br><br>
+
+'**Beginning Game Programming with C#**' course @ Coursera - University of Colorado _(Aug 2013 - Oct 2013)_ <br>
+Online course.
+<br><br>
+
+'**Introduction to Databases**' course @ Online - Stanford University _(Dec 2012 - Feb 2013)_ <br>
+Online course.
+<br><br>
+
+'**An Introduction to Interactive Programming in Python**' course @ Coursera - Rice University _(Sep 2012 - Nov 2012)_ <br>
+Online course of videogames development.
+<br><br>
+
+'**Introduction to Dynamic websites with PHP and MySQL**' course @ Polytechnic University of Valencia _(22 Jul 2012 - 30 Jul 2012)_ <br>
+_Valencia (Spain)_ <br>
+
+30h
+<br><br>
+
+'**SEO/SEM**' course @ Polytechnic University of Valencia _(2 May 2011 - 24 May 2011)_ <br>
+_Valencia (Spain)_ <br>
+
+32h
+<br><br>
+Knowledge of SEO, SEM (Google AdWords), Social Manager, analytics (Google Analytics) and Magento.
 <br><br>
 
 ## 💬 Languages
