@@ -30,7 +30,27 @@ Java 11, Spring, Spring Boot, Spring Web, REST, Spring Cloud Stream, Spring Data
 <br><br>
 
 ## 👨‍🎓 Education and training
-...
+
+**Official Master of Web Services and Applications Development** @ University of Alicante _(Aug 2012 - May 2013)_ <br>
+_San Vicente del Raspeig (Spain)_ <br>
+
+_Grade_: 8'1
+
+- HTML5, CSS3. jQuery. AJAX.
+<br>
+
+- J2EE: Servlets and JSP. Tomcat, JBoss.
+- JavaFX.
+<br>
+
+- ASP.NET. AJAX. MVC.
+- WinForms and WPF.
+<br>
+
+- Agile: Scrum, XP and Agile Modeling.
+- JIRA, SVN, Jenkins, Sonar.
+- Testing with MSTest, Selenium and JMeter.
+<br><br>
 
 ## 💬 Languages
 
