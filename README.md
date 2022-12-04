@@ -8,7 +8,26 @@ _Senior Java Developer based in Valencia (Spain)_ <br>
 <br><br>
 
 ## 🧑‍💻 Work Experience
-...
+
+**Engineer Lead** @ Wefox _(Apr 2022 - Jul 2022)_ <br>
+_Remote from Valencia (Spain)_ <br>
+
+My role was a mix of tech leadership and management.
+
+On the development side, I planned the extension of our data model (aligning with the architect and product) to support new markets and products.
+
+Also, I was actively participating in the Java Chapter (we followed the Spotify model) by sharing knowledge with the other teams in the company (like integrating CodeClimate with Github for the code quality analysis or adding code analysis tools locally to the projects to detect bugs, potential issues and security issues).
+
+On the leadership and management side I had many responsabilities:
+- Attending leadership meetings (for leads and managers) to support and manage any requirements across the company (like improving our observability strategy).
+- Leading an initiative to integrate CodeClimate with Github in all the teams in the company.
+- Defining the priorities and the roadmap in my team (along with product) to speed up our business and aligning with other teams for any dependencies.
+- Performing 1:1s/follow-up meetings every two weeks with the members of my team to detect any personal issues or any issues related to the project as well as helping them to improve and grow up professionally within the company.
+- Doing the performance reviews of the members of my team to measure their performance and professional progress (by using the OKR framework).
+
+**_Main technologies and tools used:_** <br>
+Java 11, Spring, Spring Boot, Spring Web, REST, Spring Cloud Stream, Spring Data JPA, Kafka, Kafka Streams, Kafka Schema Registry, Postgres, Liquibase, OpenAPI, Stoplight, Lombok, MapStruct, JUnit, Mockito, Testcontainers, BDD and performance testing, Gherkin, Cucumber, Serenity, REST Assured, Scala, Gatling, AWS (ECR, EKS, ParameterStore, S3, DMS), Docker, Kubernetes, Maven, Git/Github, Github Actions, Nexus, Sonar, SonarQube, CodeClimate, Kibana, Checkstyle, PMD, Scrum, DDD, Hexagonal architecture and SOLID.
+<br><br>
 
 ## 👨‍🎓 Education and training
 ...
@@ -27,10 +46,8 @@ _Senior Java Developer based in Valencia (Spain)_ <br>
 
 ## 🚧 Projects
 
-<ul>
-  <li>Final master project about Development of a Massive Open Online Course (MOOC) web platform.</li>
-  <li>Final degree project about Integration of computer vision techniques and social networks on Android.</li>
-</ul>
+- Final master project about Development of a Massive Open Online Course (MOOC) web platform.
+- Final degree project about Integration of computer vision techniques and social networks on Android.
 <br>
 
 ## 🏆 Honours and awards
