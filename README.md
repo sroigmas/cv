@@ -13,7 +13,7 @@ _Senior Java Developer based in Valencia (Spain)_ <br>
 
 Sabbatical period taking advantage to keep growing professionally by learning or going deeper in new technologies and concepts. I've been taking courses in several platforms like Udemy or Codely.tv, reading development books and articles and putting that knowledge into practice with small examples in Github.
 
-**_Completed courses:_**
+<ins>Completed courses:</ins>
 - 'SOLID principles' course (Codely.tv)
 - 'Setup macOS for programming' course (Codely.tv)
 - 'Productivity with iTerm' course (Codely.tv)
@@ -28,7 +28,7 @@ Sabbatical period taking advantage to keep growing professionally by learning or
 - 'Monitoring with Prometheus' course (Codely.tv)
 - 'Visualize Prometheus metrics with Grafana' course (Codely.tv)
 
-**_Other learnings:_**
+<ins>Other learnings:</ins>
 - AsyncAPI
 - Spring Kafka
 - Kafka Testing with Embedded Kafka and Testcontainers
