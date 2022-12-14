@@ -27,6 +27,7 @@ Sabbatical period taking advantage to keep growing professionally by learning or
 - 'ELK+Beats - Centralize logs with Elastic Stack' course (Codely.tv)
 - 'Monitoring with Prometheus' course (Codely.tv)
 - 'Visualize Prometheus metrics with Grafana' course (Codely.tv)
+- 'Master Java Web Services and RESTful API with Spring Boot' course (Udemy)
 
 <ins>Other learnings:</ins>
 - AsyncAPI
@@ -129,6 +130,10 @@ _Grade_: 8'1
 _Valencia (Spain)_ <br>
 
 _Grade_: 7'9
+<br><br>
+
+'**Master Java Web Services and RESTful API with Spring Boot**' course @ Udemy _(Dec 2022 - Dec 2022)_ <br>
+Online course.
 <br><br>
 
 '**Visualize Prometheus metrics with Grafana**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
