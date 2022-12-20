@@ -28,6 +28,8 @@ Sabbatical period taking advantage to keep growing professionally by learning or
 - 'Monitoring with Prometheus' course (Codely.tv)
 - 'Visualize Prometheus metrics with Grafana' course (Codely.tv)
 - 'Master Java Web Services and RESTful API with Spring Boot' course (Udemy)
+- 'Master Microservices with Spring Boot and Spring Cloud' course (Udemy)
+- 'Hexagonal Architecture' course (Codely.tv)
 
 <ins>Other learnings:</ins>
 - AsyncAPI
@@ -35,6 +37,9 @@ Sabbatical period taking advantage to keep growing professionally by learning or
 - Kafka Testing with Embedded Kafka and Testcontainers
 - Spring Cloud Stream
 - Testing with AssertJ and Hamcrest
+- Testing with REST Assured
+- Testing with Testcontainers
+- 'Get Your Hands Dirty on Clean Architecture' book (Tom Hombergs)
 <br><br>
 
 **Engineer Lead** @ [Wefox](https://www.wefox.com/en-de) _(Apr 2022 - Jul 2022)_ <br>
@@ -130,6 +135,14 @@ _Grade_: 8'1
 _Valencia (Spain)_ <br>
 
 _Grade_: 7'9
+<br><br>
+
+'**Hexagonal Architecture**' course @ Codely.tv _(Dec 2022 - Dec 2022)_ <br>
+Online course.
+<br><br>
+
+'**Master Microservices with Spring Boot and Spring Cloud**' course @ Udemy _(Dec 2022 - Dec 2022)_ <br>
+Online course.
 <br><br>
 
 '**Master Java Web Services and RESTful API with Spring Boot**' course @ Udemy _(Dec 2022 - Dec 2022)_ <br>
