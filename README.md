@@ -9,6 +9,12 @@ _Senior Java Developer based in Valencia (Spain)_ <br>
 
 ## 🧑‍💻 Work Experience
 
+**Senior Software Engineer** @ [ManoMano España](https://www.manomano.es/) _(Feb 2023 - Present)_ <br>
+
+<ins>Main technologies and tools used:</ins> <br>
+Kotlin, Java 17, Spring, Spring Boot, Spring Web, REST, Spring Cloud OpenFeign, Spring Data JPA, Kafka, Kafka Schema Registry, Postgres, Liquibase, OpenAPI, Lombok, ModelMapper, JUnit, Mockito, AWS (ECR, EKS, S3), Localstack, Kong, Vault, Docker, Kubernetes, Gradle, Git/GitLab, JFrog, SonarQube, Datadog, Spotless, Scrum, SAFe, DDD, Hexagonal architecture and SOLID.
+<br><br>
+
 **Self-study period** _(Sep 2022 - Present)_ <br>
 
 Sabbatical period taking advantage to keep growing professionally by learning or going deeper in new technologies and concepts. I've been taking courses in several platforms like Udemy or Codely.tv, reading development books and articles and putting that knowledge into practice with small examples in Github.
