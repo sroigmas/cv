@@ -10,6 +10,15 @@ _Senior Java Developer based in Valencia (Spain)_ <br>
 ## 🧑‍💻 Work Experience
 
 **Senior Software Engineer** @ [ManoMano España](https://www.manomano.es/) _(Feb 2023 - Present)_ <br>
+_Remote from Valencia (Spain)_ <br>
+
+Trabajo en el dominio de Returns (devoluciones) mejorando la experiencia de usuario de los compradores y vendedores que usan nuestro marketplace. Como parte de mi trabajo hemos habilitado diversas campañas de devoluciones gratuitas o con periodos de devolución extendidos en varias ocasiones.
+
+Inicialmente, me encargué de migrar diversos flujos de PHP a varios microservicios en Java y Kotlin, así como de realizar una migración de datos desde MySQL a Postgres. Construimos las bases que permiten a los vendedores gestionar las devoluciones vía web (envío de instrucciones para la recogida del producto, comunicación con el comprador, reembolso del artículo...). Igualmente, mejoramos la experiencia de los compradores permitiéndoles el seguimiento de las devoluciones así como la cancelación de las mismas.
+
+Para ello, definimos el nuevo modelo de datos e hicimos uso de arquitectura hexagonal y de tecnologías como el SDK de AWS (para el almacenamiento de imágenes y documentos) o Kafka (para habilitar el cálculo de métricas).
+
+Hacemos uso de la metodología ágil a gran escala de SAFe, basada en Scrum, realizando PIs de unos 2 meses de duración. Al final de los PIs presentamos demos de los resultados conseguidos al resto de la compañía. Además, he participado como facilitador de las refinements del equipo en varias ocasiones para definir las tareas a realizar, estimarlas y alinearnos entre la parte de FE y la de BE.
 
 <ins>Main technologies and tools used:</ins> <br>
 Kotlin, Java 17, Spring, Spring Boot, Spring Web, REST, Spring Cloud OpenFeign, Spring Data JPA, Kafka, Kafka Schema Registry, Postgres, Liquibase, OpenAPI, Lombok, ModelMapper, JUnit, Mockito, AWS (ECR, EKS, S3), Localstack, Kong, Vault, Docker, Kubernetes, Gradle, Git/GitLab, JFrog, SonarQube, Datadog, Spotless, Scrum, SAFe, DDD, Hexagonal architecture and SOLID.
