@@ -12,13 +12,13 @@ _Senior Java Developer based in Valencia (Spain)_ <br>
 **Senior Software Engineer** @ [ManoMano España](https://www.manomano.es/) _(Feb 2023 - Present)_ <br>
 _Remote from Valencia (Spain)_ <br>
 
-Trabajo en el dominio de Returns (devoluciones) mejorando la experiencia de usuario de los compradores y vendedores que usan nuestro marketplace. Como parte de mi trabajo hemos habilitado diversas campañas de devoluciones gratuitas o con periodos de devolución extendidos en varias ocasiones.
+I work in the returns domain improving the user experience for the customers and sellers using our marketplace. As part of my job we have enabled several campaigns to offer free returns or extended return periods.
 
-Inicialmente, me encargué de migrar diversos flujos de PHP a varios microservicios en Java y Kotlin, así como de realizar una migración de datos desde MySQL a Postgres. Construimos las bases que permiten a los vendedores gestionar las devoluciones vía web (envío de instrucciones para la recogida del producto, comunicación con el comprador, reembolso del artículo...). Igualmente, mejoramos la experiencia de los compradores permitiéndoles el seguimiento de las devoluciones así como la cancelación de las mismas.
+Initially, I was involved in migrating some flows from PHP to several Java and Kotlin microservices as well as performing a data migration from MySQL to Postgres. We built the foundations which allow the sellers manage the returns through the web (sending the instructions to pick up the product, communicating with the customer, refunding the item...). We also improved the user experience for the customers allowing them to track their returns as well as cancel them.
 
-Para ello, definimos el nuevo modelo de datos e hicimos uso de arquitectura hexagonal y de tecnologías como el SDK de AWS (para el almacenamiento de imágenes y documentos) o Kafka (para habilitar el cálculo de métricas).
+For this, we defined the new data model and made use of hexagonal architecture and technologies such as the AWS SDK (to store images and documents) or Kafka (to enable metrics calculation).
 
-Hacemos uso de la metodología ágil a gran escala de SAFe, basada en Scrum, realizando PIs de unos 2 meses de duración. Al final de los PIs presentamos demos de los resultados conseguidos al resto de la compañía. Además, he participado como facilitador de las refinements del equipo en varias ocasiones para definir las tareas a realizar, estimarlas y alinearnos entre la parte de FE y la de BE.
+We are using the large-scale agile methodology known as SAFe, based on Scrum, doing PIs of about 2 months duration. At the end of the PIs we show demos of the results achieved to the rest of the company. Besides, I've been the facilitator of our team refinement meetings several times, to define the tasks to perform, estimate them and align between the FE and BE developers.
 
 <ins>Main technologies and tools used:</ins> <br>
 Kotlin, Java 17, Spring, Spring Boot, Spring Web, REST, Spring Cloud OpenFeign, Spring Data JPA, Kafka, Kafka Schema Registry, Postgres, Liquibase, OpenAPI, Lombok, ModelMapper, JUnit, Mockito, AWS (ECR, EKS, S3), Localstack, Kong, Vault, Docker, Kubernetes, Gradle, Git/GitLab, JFrog, SonarQube, Datadog, Spotless, Scrum, SAFe, DDD, Hexagonal architecture and SOLID.
