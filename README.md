@@ -26,7 +26,7 @@ Kotlin, Java 17, Spring, Spring Boot, Spring Web, REST, Spring Cloud OpenFeign, 
 
 **Self-study period** _(Sep 2022 - Present)_ <br>
 
-Sabbatical period taking advantage to keep growing professionally by learning or going deeper in new technologies and concepts. I've been taking courses in several platforms like Udemy or Codely.tv, reading development books and articles and putting that knowledge into practice with small examples in Github.
+Self-study period to keep growing professionally by learning or going deeper in new technologies and concepts. I took courses in several platforms like Udemy or Codely.tv, read development books and articles and put that knowledge into practice with small examples in Github.
 
 <ins>Completed courses:</ins>
 - 'SOLID principles' course (Codely.tv)
