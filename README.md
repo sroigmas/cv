@@ -24,7 +24,7 @@ We are using the large-scale agile methodology known as SAFe, based on Scrum, do
 Kotlin, Java 17, Spring, Spring Boot, Spring Web, REST, Spring Cloud OpenFeign, Spring Data JPA, Kafka, Kafka Schema Registry, Postgres, Liquibase, OpenAPI, Lombok, ModelMapper, JUnit, Mockito, AWS (ECR, EKS, S3), Localstack, Kong, Vault, Docker, Kubernetes, Gradle, Git/GitLab, JFrog, SonarQube, Datadog, Spotless, Scrum, SAFe, DDD, Hexagonal architecture and SOLID.
 <br><br>
 
-**Self-study period** _(Sep 2022 - Present)_ <br>
+**Self-study period** _(Sep 2022 - Jan 2023)_ <br>
 
 Self-study period to keep growing professionally by learning or going deeper in new technologies and concepts. I took courses in several platforms like Udemy or Codely.tv, read development books and articles and put that knowledge into practice with small examples in Github.
 
