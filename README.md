@@ -1,6 +1,6 @@
-# Salvador Roig Mascarell
+# Salvador (Salva) Roig Mascarell
 
-_Senior Java Developer based in Valencia (Spain)_ <br>
+_Senior Software Engineer in Java / Kotlin. Based in Valencia (Spain)_ <br>
 
 [![Github Badge](https://img.shields.io/badge/-sroigmas-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sroigmas)](https://github.com/sroigmas)
 [![Linkedin Badge](https://img.shields.io/badge/-salvadorroig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salvadorroig/)](https://www.linkedin.com/in/salvadorroig/)
