@@ -7,7 +7,20 @@ _Senior Software Engineer in Java / Kotlin. Based in Valencia (Spain)_ <br>
 [![Gmail Badge](https://img.shields.io/badge/-salroima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salroima@gmail.com)](mailto:salroima@gmail.com)
 <br><br>
 
-## 🧑‍💻 Work Experience
+## 👨 About me
+
+Senior Software Engineer in Java / Kotlin with big experience in developing microservices
+and REST APIs with Spring Boot and technologies such as Kafka, AWS, Docker and
+Kubernetes. I have also worked as Tech Lead as well as doing management tasks in
+several projects.
+
+In my day to day, I like to use a modern tech stack and learn new technologies. Also, I
+care about code quality and I bet for the use of best practices and code analysis tools. I
+consider important to apply hexagonal architecture and SOLID as well as a good testing
+using ATDD or BDD.
+<br><br>
+
+## 🧑‍💻 Work experience
 
 **Senior Software Engineer** @ [ManoMano España](https://www.manomano.es/) _(Feb 2023 - Present)_ <br>
 _Remote from Valencia (Spain)_ <br>
@@ -126,190 +139,52 @@ Java, Spring, Spring Boot, Spring Web, REST, Spring Data JPA, Spring Security, S
 ## 👨‍🎓 Education and training
 
 **Official Master of Web Services and Applications Development** @ University of Alicante _(Aug 2012 - May 2013)_ <br>
-_San Vicente del Raspeig (Spain)_ <br>
-
-_Grade_: 8'1
-
-- HTML5, CSS3. jQuery. AJAX.
-<br>
-
-- J2EE: Servlets and JSP. Tomcat, JBoss.
-- JavaFX.
-<br>
-
-- ASP.NET. AJAX. MVC.
-- WinForms and WPF.
-<br>
-
-- Agile: Scrum, XP and Agile Modeling.
-- JIRA, SVN, Jenkins, Sonar.
-- Testing with MSTest, Selenium and JMeter.
+_Grade_: 8'1. Topics on web development in Java and .NET.
 <br><br>
 
 **Computer Systems technical engineering** @ Polytechnic University of Valencia _(Aug 2007 - Jun 2011)_ <br>
-_Valencia (Spain)_ <br>
-
 _Grade_: 7'9
 <br><br>
 
-'**Hexagonal Architecture**' course @ Codely.tv _(Dec 2022 - Dec 2022)_ <br>
-Online course.
+'**Hexagonal Architecture**' course @ Codely.tv _(Dec 2022 - Dec 2022)_
 <br><br>
 
-'**Master Microservices with Spring Boot and Spring Cloud**' course @ Udemy _(Dec 2022 - Dec 2022)_ <br>
-Online course.
+'**Master Microservices with Spring Boot and Spring Cloud**' course @ Udemy _(Dec 2022 - Dec 2022)_
 <br><br>
 
-'**Master Java Web Services and RESTful API with Spring Boot**' course @ Udemy _(Dec 2022 - Dec 2022)_ <br>
-Online course.
+'**Master Java Web Services and RESTful API with Spring Boot**' course @ Udemy _(Dec 2022 - Dec 2022)_
 <br><br>
 
-'**Visualize Prometheus metrics with Grafana**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
-Online course.
+'**Kubernetes for developers**' course @ Codely.tv _(Oct 2022 - Oct 2022)_
 <br><br>
 
-'**Monitoring with Prometheus**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
-Online course.
+'**Docker**' course @ Codely.tv _(Oct 2022 - Oct 2022)_
 <br><br>
 
-'**ELK+Beats - Centralize logs with Elastic Stack**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
-Online course.
+'**Kafka Streams for Data Processing**' course @ Udemy _(Oct 2022 - Oct 2022)_
 <br><br>
 
-'**Log management with Loki and Grafana**' course @ Codely.tv _(Nov 2022 - Nov 2022)_ <br>
-Online course.
+'**Confluent Schema Registry & REST Proxy**' course @ Udemy _(Sep 2022 - Sep 2022)_
 <br><br>
 
-'**Kubernetes for developers**' course @ Codely.tv _(Oct 2022 - Oct 2022)_ <br>
-Online course.
+'**Learn Apache Kafka for Beginners v3**' course @ Udemy _(Sep 2022 - Sep 2022)_
 <br><br>
 
-'**Docker**' course @ Codely.tv _(Oct 2022 - Oct 2022)_ <br>
-Online course.
-<br><br>
-
-'**Kafka Streams for Data Processing**' course @ Udemy _(Oct 2022 - Oct 2022)_ <br>
-Online course.
-<br><br>
-
-'**Confluent Schema Registry & REST Proxy**' course @ Udemy _(Sep 2022 - Sep 2022)_ <br>
-Online course.
-<br><br>
-
-'**Learn Apache Kafka for Beginners v3**' course @ Udemy _(Sep 2022 - Sep 2022)_ <br>
-Online course.
-<br><br>
-
-'**IntelliJ IDEA**' course @ Codely.tv _(Sep 2022 - Sep 2022)_ <br>
-Online course.
-<br><br>
-
-'**Productivity with iTerm**' course @ Codely.tv _(Sep 2022 - Sep 2022)_ <br>
-Online course.
-<br><br>
-
-'**Setup macOS for programming**' course @ Codely.tv _(Sep 2022 - Sep 2022)_ <br>
-Online course.
-<br><br>
-
-'**SOLID principles**' course @ Codely.tv _(Sep 2022 - Sep 2022)_ <br>
-Online course.
+'**SOLID principles**' course @ Codely.tv _(Sep 2022 - Sep 2022)_
 <br><br>
 
 **Engineering Manager workshop** by Félix López _(Apr 2021 - Apr 2021)_ <br>
 [http://engineeringmanager.academy/](http://engineeringmanager.academy/)
 <br><br>
 
-'**Apache Kafka Series - Learn Apache Kafka for Beginners v2**' course @ Udemy _(Aug 2021 - Sep 2021)_ <br>
-Online course.
-<br><br>
-
-'**Building Modern Python Applications on AWS**' course @ Coursera _(Mar 2021 - Jun 2021)_ <br>
-Online course.
-<br><br>
-
-'**Developing Cloud-Native Apps with Microservices Architectures**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
-Online course.
-<br><br>
-
-'**Spring Cloud Quick Overview**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
-Online course.
-<br><br>
-
-'**Spring Core - Learn Spring Framework 4 and Spring Boot**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
-Online course.
-<br><br>
-
-'**Spring Framework And Dependency Injection For Beginners**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
-Online course.
-<br><br>
-
-'**RESTful Web Services with Spring Framework - A quick start**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
-Online course.
-<br><br>
-
-'**Spring Boot: Complete guide from development to deployment**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
-Online course.
-<br><br>
-
-'**Introducing Spring Boot**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
-Online course.
-<br><br>
-
-'**Test Driven Development con Java y JUnit 5**' course @ Udemy _(Nov 2019 - Dec 2019)_ <br>
-Online course.
+'**Building Modern Python Applications on AWS**' course @ Coursera _(Mar 2021 - Jun 2021)_
 <br><br>
 
 '**Java Programmer and J2EE Applications Development**' course @ LUZ TI _(29 Dec 2013 - 18 Feb 2014)_ <br>
-_Barcelona (Spain)_ <br>
-
-250h
-
-- Java basics.
-- Java J2EE Web: JSP, JSTL, Servlets and JDBC.
-- Struts 2.
-- Java Server Faces (JSF). RichFaces.
-- Spring.
-- GWT and AJAX. RPC.
-- Hibernate. JPA, JPQL, EclipseLink. MyBatis.
+Topics on applications development in Java, Spring and GWT (250h).
 <br><br>
 
-'**Application development using HTML5 for Firefox O.S. mobile phones**' course @ Online - Polytechnic University of Madrid _(Oct 2013 - Dec 2013)_ <br>
-Online course.
-<br><br>
-
-'**Android applications development**' course @ Online - Universidad Galileo _(Oct 2013 - Nov 2013)_ <br>
-Online course.
-<br><br>
-
-'**MongoDB for Java Developers**' course @ MongoDB _(Sep 2013 - Oct 2013)_ <br>
-Online course.
-<br><br>
-
-'**Beginning Game Programming with C#**' course @ Coursera - University of Colorado _(Aug 2013 - Oct 2013)_ <br>
-Online course.
-<br><br>
-
-'**Introduction to Databases**' course @ Online - Stanford University _(Dec 2012 - Feb 2013)_ <br>
-Online course.
-<br><br>
-
-'**An Introduction to Interactive Programming in Python**' course @ Coursera - Rice University _(Sep 2012 - Nov 2012)_ <br>
-Online course of videogames development.
-<br><br>
-
-'**Introduction to Dynamic websites with PHP and MySQL**' course @ Polytechnic University of Valencia _(22 Jul 2012 - 30 Jul 2012)_ <br>
-_Valencia (Spain)_ <br>
-
-30h
-<br><br>
-
-'**SEO/SEM**' course @ Polytechnic University of Valencia _(2 May 2011 - 24 May 2011)_ <br>
-_Valencia (Spain)_ <br>
-
-32h
-<br><br>
-Knowledge of SEO, SEM (Google AdWords), Social Manager, analytics (Google Analytics) and Magento.
+'**MongoDB for Java Developers**' course @ MongoDB _(Sep 2013 - Oct 2013)_
 <br><br>
 
 ## 💬 Languages
@@ -319,7 +194,7 @@ Knowledge of SEO, SEM (Google AdWords), Social Manager, analytics (Google Analyt
 **English**: B2
 <br><br>
 
-## 🚗 Driving License
+## 🚗 Driving license
 
 **Type**: Car / B
 <br><br>
@@ -333,21 +208,4 @@ Knowledge of SEO, SEM (Google AdWords), Social Manager, analytics (Google Analyt
 ## 🏆 Honours and awards
 
 **Best first year students awards** @ Polytechnic University of Valencia _(Jan 2008)_
-<br><br>
-
-## 🗃️ Organisational skills
-
-Good organization skills and time and tasks management.
-<br><br>
-
-## 🗣️ Communication and interpersonal skills
-
-Leadership and teamwork abilities.
-<br><br>
-
-## 🤷‍♂️ Other competencies
-
-Self-taught with under pressure tolerance and easiness to learn.
-
-Perfectionist and commited at work.
 <br><br>
