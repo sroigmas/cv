@@ -20,6 +20,24 @@ consider important to apply hexagonal architecture and SOLID as well as a good t
 using ATDD or BDD.
 <br><br>
 
+## 💻 Digital skills
+
+**Development** <br>
+Kotlin | Java | Spring | Spring Boot | Spring Web | REST | Spring Data JPA | Spring Cloud | Spring Cloud OpenFeign | Spring Cloud Gateway | Spring Cloud Stream | Spring JMS | Spring Security | Kafka | Kafka Streams | Kafka Schema Registry | ActiveMQ | Postgres | Oracle | Liquibase | Flyway | OpenAPI | Stoplight | Lombok| MapStruct | ModelMapper | Gradle | Maven
+<br><br>
+
+**Testing** <br>
+JUnit | Mockito | Testcontainers | BDD | Performance testing | Gherkin | Cucumber | Serenity | REST Assured | Scala | Gatling
+<br><br>
+
+**CI/CD & Cloud** <br>
+Docker | Kubernetes | AWS | Localstack | Kong | Vault | Git | Github | GitLab | TeamCity
+<br><br>
+
+**Code quality and practices** <br>
+Sonar | SonarQube | CodeClimate | Veracode | Checkstyle | PMD | Findbugs | SonarLint | Spotless | DDD | Hexagonal architecture | SOLID | Scrum | SAFe
+<br><br>
+
 ## 🧑‍💻 Work experience
 
 **Senior Software Engineer** @ [ManoMano España](https://www.manomano.es/) _(Feb 2023 - Present)_ <br>
@@ -203,7 +221,7 @@ Topics on applications development in Java, Spring and GWT (250h).
 
 - Final master project about Development of a Massive Open Online Course (MOOC) web platform.
 - Final degree project about Integration of computer vision techniques and social networks on Android.
-<br>
+<br><br>
 
 ## 🏆 Honours and awards
 
