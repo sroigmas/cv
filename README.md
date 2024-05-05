@@ -40,9 +40,9 @@ Sonar | SonarQube | CodeClimate | Veracode | Checkstyle | PMD | Findbugs | Sonar
 
 ## 🧑‍💻 Work experience
 
-**Senior Software Engineer** @ [ManoMano España](https://www.manomano.es/) _(Feb 2023 - Present)_ <br>
+**Senior Software Engineer** @ [ManoMano España](https://www.manomano.es/) _(Jan 2023 - Present)_ <br>
 
-Returns domain project to improve the user experience for the customers and sellers using our marketplace. As part of my job we have enabled several campaigns to offer free returns or extended return periods.
+Returns domain project to improve the user experience for the customers and sellers using the marketplace. As part of my job we have enabled several campaigns to offer free returns or extended return periods.
 
 My main tasks have been:
 - Migrating several flows from PHP to several **Java 17** and **Kotlin** microservices.
@@ -52,17 +52,17 @@ My main tasks have been:
 - Showing **demos** of the achieved results to the rest of the company.
 - Facilitating occasionally our team refinement meetings to define the tasks to perform, estimate them and align between the FE and BE developers.
 
-We use **hexagonal architecture** and technologies such as the **AWS** SDK or **Kafka**. Also **SAFe** ﻿as agile framework, based on Scrum, doing PIs of about 2 months duration.
+Use of **hexagonal architecture** and technologies such as the **AWS** SDK or **Kafka**. Also **SAFe** ﻿as agile framework, based on Scrum, doing PIs of about 2 months duration.
 <br><br>
 
-**Self-study period** _(Sep 2022 - Jan 2023)_ <br>
+**Self-study period** _(Sep 2022 - Dec 2022)_ <br>
 
 **Self-study** period to keep growing professionally by taking courses in several platforms like **Udemy** or **Codely.tv** as well as reading development books and articles and putting that knowledge into practice in **Github**.
 
 Among others, I did courses about **Kafka**, **testing**, **Docker**, **Kubernetes** and **hexagonal architecture**.
 <br><br>
 
-**Engineer Lead** @ [Wefox](https://www.wefox.com/en-de) _(Apr 2022 - Jul 2022)_ <br>
+**Engineer Lead** @ [Wefox](https://www.wefox.com/en-de) _(Jan 2022 - Jul 2022)_ <br>
 
 Mix of **tech leadership and management**.
 
@@ -75,7 +75,7 @@ My tasks consisted in:
 - Doing their performance reviews to measure their progress with OKRs.
 <br><br>
 
-**Senior Java Developer** @ [Wefox](https://www.wefox.com/en-de) _(Oct 2021 - Apr 2022)_ <br>
+**Senior Java Developer** @ [Wefox](https://www.wefox.com/en-de) _(Jul 2021 - Dec 2021)_ <br>
 
 Claims domain project. **Microservices** **event-driven** architecture with **Kafka**. Cloud deployment using **AWS**, **Docker** and **Kubernetes**.
 
@@ -85,12 +85,7 @@ Part of my tasks were:
 - Taking part in the company's selection process, reviewing the candidate's challenge and making the technical interview.
 <br><br>
 
-**Senior Software Engineer** @ [Openbank](https://www.openbank.es/) _(Jun 2021 - Oct 2021)_ <br>
-
-Retail banking (consumer banking) project. Business logic migration of the accounts and customers domains to **microservices** and **lambdas** in **AWS** and using SQS communication.
-<br><br>
-
-**Programmer analyst / Technical lead** @ [GFT](https://www.gft.com/es/es) _(Mar 2020 - Jun 2021)_ <br>
+**Programmer analyst / Technical lead** @ [GFT](https://www.gft.com/es/es) _(May 2019 - Jun 2021)_ <br>
 
 Financing project for **Deutsche Bank**. **Microservices** development and component and E2E testing.
 **Technical Lead** role, taking part in the decision making, elaborating the technical design of the tasks as well as providing support in the technical part of the development.
@@ -98,7 +93,7 @@ Financing project for **Deutsche Bank**. **Microservices** development and compo
 Related to the testing, use of **ATDD** / **BDD**, refining and defining the scenarios at functional level previously to the development and making use of tools such as Gherkin, Cucumber and Serenity.
 <br><br>
 
-**Junior / Senior developer and Programmer analyst** @ [GFT](https://www.gft.com/es/es) _(Mar 2014 - Mar 2020)_ <br>
+**Junior / Senior developer and Programmer analyst** @ [GFT](https://www.gft.com/es/es) _(Mar 2014 - May 2019)_ <br>
 
 Investment banking project for **Deutsche Bank**. **Java** development of **messaging** and web services.
 <br><br>
