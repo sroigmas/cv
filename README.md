@@ -153,7 +153,7 @@ Topics on applications development in Java, Spring and GWT (250h).
 
 **Spanish**: Native <br>
 **Valencian/Catalan**: Native <br>
-**English**: B2
+**English**: C1
 <br><br>
 
 ## 🚗 Driving license
